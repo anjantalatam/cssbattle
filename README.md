@@ -5,4 +5,6 @@
 
 ## Battle #22 - Grid
 
+- [#140 - Eclipse](https://github.com/anjantalatam/cssbattle/blob/master/solutions/22-Grid/140-Eclipse.md)
+
 ## Battle #1 - Pilot Battle
