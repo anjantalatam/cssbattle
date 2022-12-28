@@ -8,3 +8,5 @@
 - [#140 - Eclipse](https://github.com/anjantalatam/cssbattle/blob/master/solutions/22-Grid/140-Eclipse.md)
 
 ## Battle #1 - Pilot Battle
+
+- [#7 - Leafy Trail](https://github.com/anjantalatam/cssbattle/blob/master/solutions/1-PilotBattle/7-LeafyTrial.md)
