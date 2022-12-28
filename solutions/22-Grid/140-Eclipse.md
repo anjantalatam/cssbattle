@@ -4,7 +4,9 @@
 
 [Link to the problem](https://cssbattle.dev/play/140)
 
-![result](../images/140-Eclipse.png)
+## Result
+<img width="412" alt="Screenshot 2022-12-28 at 10 36 58 PM" src="https://user-images.githubusercontent.com/53368431/209847522-acfbee32-ec79-4038-b84f-446402e96b6c.png">
+
 
 ## Code
 
