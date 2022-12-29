@@ -9,4 +9,5 @@
 
 ## Battle #1 - Pilot Battle
 
+- [#8 - Forking Crazy](https://github.com/anjantalatam/cssbattle/blob/master/solutions/1-PilotBattle/8-ForkingCrazy.md)
 - [#7 - Leafy Trail](https://github.com/anjantalatam/cssbattle/blob/master/solutions/1-PilotBattle/7-LeafyTrial.md)
