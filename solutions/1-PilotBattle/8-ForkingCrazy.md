@@ -5,6 +5,8 @@
 [Link to the problem](https://cssbattle.dev/play/8)
 
 ## Result
+<img width="420" alt="Screenshot 2022-12-29 at 11 13 07 PM" src="https://user-images.githubusercontent.com/53368431/209989894-e3b3d03c-23ec-4662-b8c4-30e9d1b5ffe5.png">
+
 
 ## Code
 
