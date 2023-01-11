@@ -6,6 +6,8 @@
 
 ## Result
 
+<img width="420" alt="Screenshot 2023-01-11 at 11 22 30 PM" src="https://user-images.githubusercontent.com/53368431/211881181-ea0dfb17-3577-498e-90b7-4f1d5b480836.png">
+
 ## Code
 
 ```html
